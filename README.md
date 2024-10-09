@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+<b>Hi my name is Shubham</b>
+
 🌱 I’m currently learning Next, Gatsby<br><br>👨‍💻 All of my projects are available at brylcoder.netlify.app<br><br>💬 Ask me about React, Node & Angular<br><br>📫 How to reach me brylcoder@gmail.com<br><br>⚡ Fun fact I want to be an astronaut.
 
 
