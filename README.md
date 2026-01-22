@@ -81,8 +81,8 @@ Modern admin dashboard • React • TypeScript • Live Demo Available
 </p>
 
 **📧 Email:** brylcoder@gmail.com  
-**🌐 Portfolio:** [brylcoder.vercel.app](https://brylcoder.vercel.app)  
-**📄 Resume:** [View Resume](https://brylcoder.vercel.app/resume.pdf)
+**🌐 Portfolio:** [brylcoder.vercel.app](https://brylcodes.vercel.app)  
+**📄 Resume:** [View Resume](https://brylcodes.vercel.app/resume.pdf)
 
 ---
 
