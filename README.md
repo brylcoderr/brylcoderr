@@ -24,6 +24,9 @@
 - Open to **remote opportunities** and exciting frontend/fullstack projects
 - Available for **collaboration** on innovative SaaS tools and scalable web applications
 
+### 📈 This Week's Focus
+- Building ReactBits Custom Components with Next.js 14
+- Exploring ReactBits
 ---
 
 ### 💻 Tech Stack
